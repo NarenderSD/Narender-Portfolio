@@ -20,6 +20,111 @@
       "code": "https://github.com/Narender-singh/instagram-mern"
     }
   },
+  {
+    "name": "Apna Blog",
+    "desc": "Full Stack Blogging App",
+    "image": "notystackandroid",
+    "category": "mern",
+    "links": {
+      "view": "https://www.linkedin.com/posts/narender-singh1_fullstack-react-appwrite-activity-7171382873449517056-bPIv?utm_source=share&utm_medium=member_desktop",
+      "code": "https://apnablog.vercel.app/"
+    }
+  },
+  
+  {
+    "name": "Narender Dedical Care",
+    "desc": "Built with the MERN stack (MongoDB, Express, React, and Node), this project connects a website and a dashboard for seamless hospital management.",
+    "image": "logindj",
+    "category": "mern",
+    "links": {
+      "view": "https://www.linkedin.com/posts/narender-singh1_mernstack-webdevelopment-jobopenings-activity-7217547254591602688-FIpW?utm_source=share&utm_medium=member_desktop",
+      "code": "https://github.com/Narender-singh/instagram-mern"
+    }
+  },
+  {
+    "name": "NOTES MEET",
+    "desc": "Full Stack Blogging App",
+    "image": "notesmeet",
+    "category": "mern",
+    "links": {
+      "view": "https://www.linkedin.com/posts/narender-singh1_fullstack-react-appwrite-activity-7171382873449517056-bPIv?utm_source=share&utm_medium=member_desktop",
+      "code": "https://apnablog.vercel.app/"
+    }
+  },
+  
+  {
+    "name": "Portfolio",
+    "desc": "Built with the MERN stack (MongoDB, Express, React, and Node), this project connects a website and a dashboard for seamless hospital management.",
+    "image": "portfolio",
+    "category": "mern",
+    "links": {
+      "view": "https://www.linkedin.com/posts/narender-singh1_mernstack-webdevelopment-jobopenings-activity-7217547254591602688-FIpW?utm_source=share&utm_medium=member_desktop",
+      "code": "https://github.com/Narender-singh/instagram-mern"
+    }
+  },
+  {
+    "name": "Aarti Shaee",
+    "desc": "Full Stack Blogging App",
+    "image": "android",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/narender-singh1_fullstack-react-appwrite-activity-7171382873449517056-bPIv?utm_source=share&utm_medium=member_desktop",
+      "code": "https://apnablog.vercel.app/"
+    }
+  },
+  
+  {
+    "name": "Narender Dedical Care",
+    "desc": "Built with the MERN stack (MongoDB, Express, React, and Node), this project connects a website and a dashboard for seamless hospital management.",
+    "image": "instagrammern",
+    "category": "mern",
+    "links": {
+      "view": "https://www.linkedin.com/posts/narender-singh1_mernstack-webdevelopment-jobopenings-activity-7217547254591602688-FIpW?utm_source=share&utm_medium=member_desktop",
+      "code": "https://github.com/Narender-singh/instagram-mern"
+    }
+  },
+  {
+    "name": "Apna Blog",
+    "desc": "Full Stack Blogging App",
+    "image": "notystackandroid",
+    "category": "mern",
+    "links": {
+      "view": "https://www.linkedin.com/posts/narender-singh1_fullstack-react-appwrite-activity-7171382873449517056-bPIv?utm_source=share&utm_medium=member_desktop",
+      "code": "https://apnablog.vercel.app/"
+    }
+  },
+  
+  {
+    "name": "Narender Dedical Care",
+    "desc": "Built with the MERN stack (MongoDB, Express, React, and Node), this project connects a website and a dashboard for seamless hospital management.",
+    "image": "instagrammern",
+    "category": "mern",
+    "links": {
+      "view": "https://www.linkedin.com/posts/narender-singh1_mernstack-webdevelopment-jobopenings-activity-7217547254591602688-FIpW?utm_source=share&utm_medium=member_desktop",
+      "code": "https://github.com/Narender-singh/instagram-mern"
+    }
+  },
+  {
+    "name": "Apna Blog",
+    "desc": "Full Stack Blogging App",
+    "image": "notystackandroid",
+    "category": "mern",
+    "links": {
+      "view": "https://www.linkedin.com/posts/narender-singh1_fullstack-react-appwrite-activity-7171382873449517056-bPIv?utm_source=share&utm_medium=member_desktop",
+      "code": "https://apnablog.vercel.app/"
+    }
+  },
+  
+  {
+    "name": "Narender Dedical Care",
+    "desc": "Built with the MERN stack (MongoDB, Express, React, and Node), this project connects a website and a dashboard for seamless hospital management.",
+    "image": "instagrammern",
+    "category": "mern",
+    "links": {
+      "view": "https://www.linkedin.com/posts/narender-singh1_mernstack-webdevelopment-jobopenings-activity-7217547254591602688-FIpW?utm_source=share&utm_medium=member_desktop",
+      "code": "https://github.com/Narender-singh/instagram-mern"
+    }
+  },
   
   {
     "name": "MACBOOK Pro Clone",
