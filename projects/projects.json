@@ -9,6 +9,16 @@
       "code": "https://apnablog.vercel.app/"
     }
   },
+  {
+    "name": "Yaar Vichar (Social Media App)",
+    "desc": "Built with the MERN stack (MongoDB, Express, React, and Node), this is Social Media App.",
+    "image": "yaarvichar",
+    "category": "mern",
+    "links": {
+      "view": "https://yaarvichar.onrender.com/",
+      "code": "https://github.com/NarenderSD/"
+    }
+  },
   
   {
     "name": "Narender Dedical Care",
@@ -17,112 +27,93 @@
     "category": "mern",
     "links": {
       "view": "https://www.linkedin.com/posts/narender-singh1_mernstack-webdevelopment-jobopenings-activity-7217547254591602688-FIpW?utm_source=share&utm_medium=member_desktop",
-      "code": "https://github.com/Narender-singh/instagram-mern"
-    }
-  },
-  {
-    "name": "Apna Blog",
-    "desc": "Full Stack Blogging App",
-    "image": "notystackandroid",
-    "category": "mern",
-    "links": {
-      "view": "https://www.linkedin.com/posts/narender-singh1_fullstack-react-appwrite-activity-7171382873449517056-bPIv?utm_source=share&utm_medium=member_desktop",
-      "code": "https://apnablog.vercel.app/"
-    }
-  },
-  
-  {
-    "name": "Narender Dedical Care",
-    "desc": "Built with the MERN stack (MongoDB, Express, React, and Node), this project connects a website and a dashboard for seamless hospital management.",
-    "image": "logindj",
-    "category": "mern",
-    "links": {
-      "view": "https://www.linkedin.com/posts/narender-singh1_mernstack-webdevelopment-jobopenings-activity-7217547254591602688-FIpW?utm_source=share&utm_medium=member_desktop",
-      "code": "https://github.com/Narender-singh/instagram-mern"
+      "code": "https://hms-dashboard-murex.vercel.app/login"
     }
   },
   {
     "name": "NOTES MEET",
-    "desc": "Full Stack Blogging App",
+    "desc": "Django full stack project with dashboard and website, this project use Python, Django, MySQL, HTML, CSS, and JavaScript.",
     "image": "notesmeet",
+    "category": "django",
+    "links": {
+      "view": "https://notesmeet1.pythonanywhere.com/",
+      "code": "https://www.linkedin.com/feed/update/urn:li:activity:7220052127883149312/"
+    }
+  },
+  
+  {
+    "name": "Narender Portfolio",
+    "desc": "Built with the MERN stack (MongoDB, Express, React, and Node), this project connects a website and a dashboard for seamless hospital management.",
+    "image": "portfolio",
+    "category": "web, basicweb",
+    "links": {
+      "view": "https://narender-portfolio.netlify.app/",
+      "code": "https://narender-portfolio.netlify.app/projects/"
+    }
+  },
+  
+  {
+    "name": "College Management System",
+    "desc": "College Management System is a full stack project with dashboard and website, this project use Python, Django, MySQL, HTML, CSS, and JavaScript.",
+    "image": "cms",
+    "category": "django",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/NarenderSD/College-Management-System?tab=readme-ov-file"
+    }
+  },
+  {
+    "name": "Apna Blog",
+    "desc": "Full Stack Blogging App",
+    "image": "notystackandroid",
     "category": "mern",
     "links": {
       "view": "https://www.linkedin.com/posts/narender-singh1_fullstack-react-appwrite-activity-7171382873449517056-bPIv?utm_source=share&utm_medium=member_desktop",
       "code": "https://apnablog.vercel.app/"
     }
   },
-  
-  {
-    "name": "Portfolio",
-    "desc": "Built with the MERN stack (MongoDB, Express, React, and Node), this project connects a website and a dashboard for seamless hospital management.",
-    "image": "portfolio",
-    "category": "mern",
-    "links": {
-      "view": "https://www.linkedin.com/posts/narender-singh1_mernstack-webdevelopment-jobopenings-activity-7217547254591602688-FIpW?utm_source=share&utm_medium=member_desktop",
-      "code": "https://github.com/Narender-singh/instagram-mern"
-    }
-  },
+
   {
     "name": "Aarti Shaee",
     "desc": "Full Stack Blogging App",
     "image": "android",
-    "category": "android",
+    "category": "android, flutter",
     "links": {
       "view": "https://www.linkedin.com/posts/narender-singh1_fullstack-react-appwrite-activity-7171382873449517056-bPIv?utm_source=share&utm_medium=member_desktop",
       "code": "https://apnablog.vercel.app/"
     }
   },
   
+  
   {
-    "name": "Narender Dedical Care",
-    "desc": "Built with the MERN stack (MongoDB, Express, React, and Node), this project connects a website and a dashboard for seamless hospital management.",
-    "image": "instagrammern",
+    "name": "Youtube",
+    "desc": "Youtube Clone is a full stack project with dashboard and website, this project use MERN stack (MongoDB, Express, React, and Node).",
+    "image": "yt",
     "category": "mern",
     "links": {
-      "view": "https://www.linkedin.com/posts/narender-singh1_mernstack-webdevelopment-jobopenings-activity-7217547254591602688-FIpW?utm_source=share&utm_medium=member_desktop",
-      "code": "https://github.com/Narender-singh/instagram-mern"
+      "view": "https://youtube-ns.netlify.app/",
+      "code": "https://youtube-ns.netlify.app/"
     }
   },
   {
-    "name": "Apna Blog",
-    "desc": "Full Stack Blogging App",
-    "image": "notystackandroid",
-    "category": "mern",
+    "name": "Snake Game",
+    "desc": "Snake Game is a simple game built using HTML, CSS, and JavaScript.",
+    "image": "snakgame",
+    "category": "basicweb, games",
     "links": {
-      "view": "https://www.linkedin.com/posts/narender-singh1_fullstack-react-appwrite-activity-7171382873449517056-bPIv?utm_source=share&utm_medium=member_desktop",
-      "code": "https://apnablog.vercel.app/"
+      "view": "https://snakegame108.netlify.app/",
+      "code": "https://snakegame108.netlify.app/"
     }
   },
   
   {
-    "name": "Narender Dedical Care",
-    "desc": "Built with the MERN stack (MongoDB, Express, React, and Node), this project connects a website and a dashboard for seamless hospital management.",
-    "image": "instagrammern",
-    "category": "mern",
+    "name": "Age Calculator",
+    "desc": "Age calculator is calculate your age in years, months, days, hours, minutes, and seconds.",
+    "image": "age",
+    "category": "basicweb",
     "links": {
-      "view": "https://www.linkedin.com/posts/narender-singh1_mernstack-webdevelopment-jobopenings-activity-7217547254591602688-FIpW?utm_source=share&utm_medium=member_desktop",
-      "code": "https://github.com/Narender-singh/instagram-mern"
-    }
-  },
-  {
-    "name": "Apna Blog",
-    "desc": "Full Stack Blogging App",
-    "image": "notystackandroid",
-    "category": "mern",
-    "links": {
-      "view": "https://www.linkedin.com/posts/narender-singh1_fullstack-react-appwrite-activity-7171382873449517056-bPIv?utm_source=share&utm_medium=member_desktop",
-      "code": "https://apnablog.vercel.app/"
-    }
-  },
-  
-  {
-    "name": "Narender Dedical Care",
-    "desc": "Built with the MERN stack (MongoDB, Express, React, and Node), this project connects a website and a dashboard for seamless hospital management.",
-    "image": "instagrammern",
-    "category": "mern",
-    "links": {
-      "view": "https://www.linkedin.com/posts/narender-singh1_mernstack-webdevelopment-jobopenings-activity-7217547254591602688-FIpW?utm_source=share&utm_medium=member_desktop",
-      "code": "https://github.com/Narender-singh/instagram-mern"
+      "view": "https://age-calculat.netlify.app/",
+      "code": "https://age-calculat.netlify.app/"
     }
   },
   
