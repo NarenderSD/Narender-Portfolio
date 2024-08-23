@@ -63,13 +63,13 @@
     }
   },
   {
-    "name": "Apna Blog",
-    "desc": "Full Stack Blogging App",
-    "image": "notystackandroid",
-    "category": "mern",
+    "name": "Dynamic Balancing Service",
+    "desc": "Dynamic Balancing Service is a WordPress website, this project use WordPress, Elementor, and PHP.",
+    "image": "dbw",
+    "category": "wp",
     "links": {
-      "view": "https://www.linkedin.com/posts/narender-singh1_fullstack-react-appwrite-activity-7171382873449517056-bPIv?utm_source=share&utm_medium=member_desktop",
-      "code": "https://apnablog.vercel.app/"
+      "view": "https://dynamicbalancingservice.com/",
+      "code": "https://dynamicbalancingservice.com/"
     }
   },
 
@@ -147,16 +147,7 @@
       "code": "https://rkbalancing.com/"
     }
   },
-  {
-    "name": "Dynamic Balancing Service",
-    "desc": "Dynamic Balancing Service is a WordPress website, this project use WordPress, Elementor, and PHP.",
-    "image": "dbw",
-    "category": "wp",
-    "links": {
-      "view": "https://dynamicbalancingservice.com/",
-      "code": "https://dynamicbalancingservice.com/"
-    }
-  },
+ 
   
   {
     "name": "MACBOOK Pro Clone",
