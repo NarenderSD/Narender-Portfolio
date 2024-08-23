@@ -128,105 +128,36 @@
   },
   
   {
-    "name": "Age Calculator",
-    "desc": "Age calculator is calculate your age in years, months, days, hours, minutes, and seconds.",
-    "image": "age",
-    "category": "basicweb",
+    "name": "Waterguru",
+    "desc": "Waterguru is a WordPress website, this project use WordPress, Elementor, and PHP.",
+    "image": "wgw",
+    "category": "wp",
     "links": {
-      "view": "https://age-calculat.netlify.app/",
-      "code": "https://age-calculat.netlify.app/"
+      "view": "https://waterguru.co.in/#",
+      "code": "#"
     }
   },
   {
-    "name": "Age Calculator",
-    "desc": "Age calculator is calculate your age in years, months, days, hours, minutes, and seconds.",
-    "image": "age",
-    "category": "basicweb",
+    "name": "RK balancing",
+    "desc": "RK balancing is a WordPress website, this project use WordPress, Elementor, and PHP.",
+    "image": "rkw, rkw2",
+    "category": "wp",
     "links": {
-      "view": "https://age-calculat.netlify.app/",
-      "code": "https://age-calculat.netlify.app/"
+      "view": "https://rkbalancing.com/",
+      "code": "https://rkbalancing.com/"
     }
   },
   {
-    "name": "Age Calculator",
-    "desc": "Age calculator is calculate your age in years, months, days, hours, minutes, and seconds.",
-    "image": "age",
-    "category": "basicweb",
+    "name": "Dynamic Balancing Service",
+    "desc": "Dynamic Balancing Service is a WordPress website, this project use WordPress, Elementor, and PHP.",
+    "image": "dbw",
+    "category": "wp",
     "links": {
-      "view": "https://age-calculat.netlify.app/",
-      "code": "https://age-calculat.netlify.app/"
+      "view": "https://dynamicbalancingservice.com/",
+      "code": "https://dynamicbalancingservice.com/"
     }
   },
-  {
-    "name": "Age Calculator",
-    "desc": "Age calculator is calculate your age in years, months, days, hours, minutes, and seconds.",
-    "image": "age",
-    "category": "basicweb",
-    "links": {
-      "view": "https://age-calculat.netlify.app/",
-      "code": "https://age-calculat.netlify.app/"
-    }
-  },
-  {
-    "name": "Age Calculator",
-    "desc": "Age calculator is calculate your age in years, months, days, hours, minutes, and seconds.",
-    "image": "age",
-    "category": "basicweb",
-    "links": {
-      "view": "https://age-calculat.netlify.app/",
-      "code": "https://age-calculat.netlify.app/"
-    }
-  },
-  {
-    "name": "Age Calculator",
-    "desc": "Age calculator is calculate your age in years, months, days, hours, minutes, and seconds.",
-    "image": "age",
-    "category": "basicweb",
-    "links": {
-      "view": "https://age-calculat.netlify.app/",
-      "code": "https://age-calculat.netlify.app/"
-    }
-  },
-  {
-    "name": "Age Calculator",
-    "desc": "Age calculator is calculate your age in years, months, days, hours, minutes, and seconds.",
-    "image": "age",
-    "category": "basicweb",
-    "links": {
-      "view": "https://age-calculat.netlify.app/",
-      "code": "https://age-calculat.netlify.app/"
-    }
-  },
-  {
-    "name": "Age Calculator",
-    "desc": "Age calculator is calculate your age in years, months, days, hours, minutes, and seconds.",
-    "image": "age",
-    "category": "basicweb",
-    "links": {
-      "view": "https://age-calculat.netlify.app/",
-      "code": "https://age-calculat.netlify.app/"
-    }
-  },
-  {
-    "name": "Age Calculator",
-    "desc": "Age calculator is calculate your age in years, months, days, hours, minutes, and seconds.",
-    "image": "age",
-    "category": "basicweb",
-    "links": {
-      "view": "https://age-calculat.netlify.app/",
-      "code": "https://age-calculat.netlify.app/"
-    }
-  },
-  {
-    "name": "Age Calculator",
-    "desc": "Age calculator is calculate your age in years, months, days, hours, minutes, and seconds.",
-    "image": "age",
-    "category": "basicweb",
-    "links": {
-      "view": "https://age-calculat.netlify.app/",
-      "code": "https://age-calculat.netlify.app/"
-    }
-  },
+  
   {
     "name": "MACBOOK Pro Clone",
     "desc": "I'm incredibly excited to unveil the MACBOOK Pro Clone, a project that embodies innovation and resilience. Built using HTML, CSS, and Javascript, this clone is more than just a facade;",
